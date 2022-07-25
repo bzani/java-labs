@@ -1,5 +1,7 @@
 package com.bzani.labs.lab04.javautil;
 
+import java.util.List;
+
 import org.junit.jupiter.api.Test;
 
 public class CollectionsLab {
@@ -13,7 +15,11 @@ public class CollectionsLab {
 	}
 	
 	@Test
-	public void test_maps() {
+	public void test_hashmaps() {
+	}
+	
+	@Test
+	public void test_treemaps() {
 	}
 	
 }
